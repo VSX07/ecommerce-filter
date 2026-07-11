@@ -5,7 +5,7 @@ const products = [
       category: "Electronics",
       price: 75000,
       rating: 5,
-      image: "https://picsum.photos/200?1",
+      image: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZaveQDYdSd_eLaxg5aHocDyZiw9_1QIXkTesztTz5w50rWC0RUMekqzZg5qdSlnIXLDg18s9WdrRYh0DJM3dd3IrcXuD00DoJlOlwdyXEHWLoFdg2-7wFoVg",
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ const products = [
       category: "Electronics",
       price: 68000,
       rating: 4,
-      image: "https://picsum.photos/200?2",
+      image: "https://images.samsung.com/is/image/samsung/p6pim/ae/feature/164982871/ae-feature-smartphones-539754563?$FB_TYPE_A_MO_JPG$",
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const products = [
       category: "Footwear",
       price: 6500,
       rating: 5,
-      image: "https://picsum.photos/200?3",
+      image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_QvB87gXdg16zUu7OB5hJmd0NPiBUsX_SQaT-aHmqNzx1S6CcUITjpp5SqB-kR-AnadM7QCoFssFr8OsDwP-wxnO0709F0YuyU1iINzWy9nStknNGAMRJGHw",
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ const products = [
       category: "Footwear",
       price: 5000,
       rating: 4,
-      image: "https://picsum.photos/200?4",
+      image: "https://m.media-amazon.com/images/I/81kRbidVChL._AC_UY1000_.jpg",
     },
     {
       id: 5,
@@ -37,7 +37,7 @@ const products = [
       category: "Footwear",
       price: 4500,
       rating: 3,
-      image: "https://picsum.photos/200?5",
+      image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhRkx2fBUqmZkbeI88UHeu-w_VnUBl4zy4rqloP2hOEY9I-NxWPkFclzT7Xf-hbLuynEWpMQxLNk5QvbZ26jrUKlh5gdbs1aRMA6Ytsx5e4Ja07GJoWbErmX0",
     },
     {
       id: 6,
@@ -45,7 +45,7 @@ const products = [
       category: "Apparel",
       price: 1200,
       rating: 4,
-      image: "https://picsum.photos/200?6",
+      image: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJYGNYIouTd2WUF12H1BRE6CNhUSP8lNU5iw7AHM8MZqOpEqT6s5Wg7lkgWSy89c2hTt89gK4iziYVaKJ53CTyfvgVnAieVbTiFgDoL7kSX01rREqtnlsS",
     },
     {
       id: 7,
@@ -53,7 +53,7 @@ const products = [
       category: "Apparel",
       price: 2800,
       rating: 5,
-      image: "https://picsum.photos/200?7",
+      image: "https://m.media-amazon.com/images/I/51Q7kMiEXZL._AC_UY1100_.jpg",
     },
     {
       id: 8,
@@ -61,7 +61,7 @@ const products = [
       category: "Electronics",
       price: 62000,
       rating: 4,
-      image: "https://picsum.photos/200?8",
+      image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQW6crfwdv9I_UVt-Su34v49_OGG1fxudw3qMX3Yw8EW3DREKwpkZtuOvTfY-OBuVHi84Nfkx0trXyQxLPdeE8UgxCkf1NauhDSitE5mhvyGsvyCzHlr5iS",
     },
     {
       id: 9,
@@ -69,7 +69,7 @@ const products = [
       category: "Electronics",
       price: 8500,
       rating: 3,
-      image: "https://picsum.photos/200?9",
+      image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5ZbuKGZj6s-tOv6pGioaumiW5iHZf-Snspy_4e9T9CD105vAUSFiWNpYb2E80n6YeFrs3OfxesSEWGMILYTf3JhinzRlF_GuqonQGMHgs_S6U1E9EqrpUEg",
     },
     {
       id: 10,
@@ -77,7 +77,7 @@ const products = [
       category: "Apparel",
       price: 2200,
       rating: 5,
-      image: "https://picsum.photos/200?10",
+      image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScoM3nmLHlkdB0lNe22uJ0W8QJZuXsBZrYiG8BRWdkWdNDd4a7XtlJjJ31OtP0D-W_ubTX-B1ab1DzlJ1VMZBeE7xlrwGmAx7Cfl79WdSu2qjJASKka8Tv",
     },
   ];
   
