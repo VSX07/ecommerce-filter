@@ -279,9 +279,9 @@ Render Product Cards
 
 ## 👨‍💻 Author
 
-**Harsh Singh**
+**Vivek Singh**
 
-GitHub: https://github.com/your-username
+GitHub: [https://github.com/your-username](https://github.com/VSX07/ecommerce-filter/tree/main)
 
 ---
 
